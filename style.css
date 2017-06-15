@@ -1,0 +1,18 @@
+body {
+    background-image: url("basketball-hoop.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.title {
+    font-family: 'Anton', sans-serif;
+    font-size: 68px;
+    text-align: center;
+    color: white;
+}
+
+.navbar-custom .navbar-nav a {
+    color: white !important;
+    text-align: center;
+    font-family:  'Anton', sans-serif;
+}
