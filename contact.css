@@ -34,9 +34,10 @@ color:white;
 .box {
     background-color: rgba(255,255,255,0.8);
     padding-top: 50px;
+    width: 1000px;
     height: 700px;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin-right: 30px;
+    margin-left: 450px;
 
 }
 
@@ -44,18 +45,49 @@ color:white;
     margin-left: 100px;
 }
 
-.inner {
-    display: inline-block;
+#shift {
+    margin-left: 100px
 }
 
-.shift {
-    margin-left: 200px;
+#shift2 {
+    margin-left: 100px;
+    font-size: 20px
 }
 
-.carousel-inner {
-  max-height: 600px;
-  width: 100%;
-  top: 0;
-    margin-left: 50px
+.form-control {
+    width:300px
+}
+.input-size {
+    width: 300px;
+    margin-left:50px;
+    margin-top: 50px
+    
+}
 
+.label-shift {
+    margin-left: 50px;
+}
+
+.label-shift2 {
+    margin-left: 55px;
+}
+
+#box-size {
+    width: 600px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 10px
+}
+.shift3 {
+    margin-left: 130px;
+    margin-top: 50px;
+    display: inline;
+    float: left;
+
+}
+
+#move {
+    display: block;
+    margin-left: 450px;
+    margin-top: 40px;
 }
