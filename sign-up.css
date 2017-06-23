@@ -33,27 +33,12 @@ body {
 .box {
     background-color: rgba(255, 255, 255, 0.8);
     padding-top: 50px;
-    height: 900px;
-    margin: 0px 200px 50px 200px;
-    
-}
-
-a {
-    margin-left: 100px;
-}
-
-.inner {
-    display: inline-block;
-}
-
-.shift {
+    height: 1100px;
+    margin-right: 200px;
     margin-left: 200px;
 }
-
-.carousel-inner {
-    max-height: 600px;
-    width: 90%;
-    top: 0;
+a {
+    margin-left: 100px;
 }
 
 #inner-box {
@@ -62,13 +47,7 @@ a {
     padding: 0px 120px 0px 120px;
     font-family: 'Questrial', sans-serif;
 }
-
 .font-change {
     font-family: 'Questrial', sans-serif;
     padding: 40px 0px 0px 120px
-}
-#foot {
-    background-color: white;
-    width: 100%;
-    height: 100px
 }
